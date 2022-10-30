@@ -1,3 +1,8 @@
+## NewsFlash React App tells you latest news related to various categories choosen by user
+
+https://user-images.githubusercontent.com/89683890/198875477-4c1b0c02-3945-4c70-a78e-80cdb8dd7d3e.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
