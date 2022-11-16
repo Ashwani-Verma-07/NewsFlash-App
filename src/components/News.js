@@ -125,7 +125,5 @@ export default News;
 
 // rce -> react class export component;
 // rfe -> react function export component;
-// 884d2958a8264bf09e3fe2044580c419 -> API key NEWs
-//au->australia us-> united states nz-> new Zealand ca->canada sg->singapore ph ->Philippines sa->south Africa my->Malaysia
-//884d2958a8264bf09e3fe2044580c419
-//04fb5ddc408845a7864df9dbb85d6db8
+//au->australia us-> united states nz-> new Zealand ca->canada sg->singapore ph ->Philippines sa->south Africa my->Malaysia in->india
+
