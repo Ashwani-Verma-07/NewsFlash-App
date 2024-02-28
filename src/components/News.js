@@ -127,6 +127,7 @@ export default News;
 
 // rce -> react class export component;
 // rfe -> react function export component;
+<<<<<<< HEAD
 // 884d2958a8264bf09e3fe2044580c419 -> API key NEWs
 //au->australia us-> united states nz-> new Zealand ca->canada sg->singapore ph ->Philippines sa->south Africa my->Malaysia
 //884d2958a8264bf09e3fe2044580c419
@@ -134,3 +135,12 @@ export default News;
 //ae ar at au be bg br ca ch cn co cu cz de eg fr gb
 //gr hk hu id ie il in it jp kr lt lv ma mx my ng nl
 //no nz ph pl pt ro rs ru sa se sg si sk th tr tw ua us ve za
+||||||| 5ab1e62
+// 884d2958a8264bf09e3fe2044580c419 -> API key NEWs
+//au->australia us-> united states nz-> new Zealand ca->canada sg->singapore ph ->Philippines sa->south Africa my->Malaysia
+//884d2958a8264bf09e3fe2044580c419
+//04fb5ddc408845a7864df9dbb85d6db8
+=======
+//au->australia us-> united states nz-> new Zealand ca->canada sg->singapore ph ->Philippines sa->south Africa my->Malaysia in->india
+
+>>>>>>> e24ac1efaad62acf5ef5ad06a27e9092dca04778
