@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
@@ -26,48 +26,6 @@ const Navbar = () => {
                   Home
                 </Link>
               </li>
-              {/* <li className="nav-item dropdown">
-                  <Link
-                    className="nav-link dropdown-toggle"
-                    to="/"
-                    role="button"
-                    data-bs-toggle="dropdown"
-                    aria-expanded="false"
-                  >
-                    Dropdown
-                  </Link>
-                  <ul className="dropdown-menu">
-                    <li>
-                      <Link className="dropdown-item" to="/">
-                        India
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        className="dropdown-item"
-                        to="/"
-                        onClick={(this.country = "us")}
-                      >
-                        United States
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="dropdown-item" to="/">
-                        Australia
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="dropdown-item" to="/">
-                        Canada
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="dropdown-item" to="/">
-                        New Zealand
-                      </Link>
-                    </li>
-                  </ul>
-                </li> */}
               <li className="nav-item">
                 <Link className="nav-link" to="/business">
                   Business

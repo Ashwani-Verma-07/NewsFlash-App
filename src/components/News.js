@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import NewBar from "./NewsBar";
 import Spinner from "./Spinner";
 import InfiniteScroll from "react-infinite-scroll-component";
-
 import PropTypes from "prop-types";
 const News = (props) => {
   const [articles, setArticles] = useState([]);
@@ -67,8 +66,16 @@ const News = (props) => {
         hasMore={articles.length !== totalResults}
         loader={<Spinner />}
       >
-        <div className="container">
-          <div className="row">
+        <div
+          className="container"
+          style={{
+            maxWidth: "none",
+          }}
+        >
+          <div
+            className="row"
+            style={{ display: "flex", justifyContent: "center" }}
+          >
             {articles.map((element) => {
               return (
                 <div className="col-md-3 my-3" key={element.url}>

@@ -5,7 +5,7 @@ const NewBar = (props) => {
   return (
     <div
       className="container"
-      style={{ display: "flex", justifyContent: "center" }}
+      style={{ maxWidth: "none", display: "grid", justifyContent: "center" }}
     >
       <div className="card" style={{ width: "18rem", height: "31rem" }}>
         <div
